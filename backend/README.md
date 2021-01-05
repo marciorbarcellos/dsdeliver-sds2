@@ -7,6 +7,8 @@ Vídeo no Youtube: (https://youtu.be/b8uLFfzcVQ8)
 
 ## Modelo conceitual
 ![Image](https://raw.githubusercontent.com/marciorbarcellos/dsdeliver-sds2/master/assets/backend/img/Modelo_conceitual.jpg "Modelo conceitual")
+https://github.com/marciorbarcellos/dsdeliver-sds2/blob/main/backend/img/Modelo_conceitual.jpg
+
 
 ## Padrão camadas adotado
 
