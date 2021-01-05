@@ -6,13 +6,11 @@ Vídeo no Youtube: (https://youtu.be/b8uLFfzcVQ8)
 
 
 ## Modelo conceitual
-![Image](https://raw.githubusercontent.com/marciorbarcellos/dsdeliver-sds2/master/assets/backend/img/Modelo_conceitual.jpg "Modelo conceitual")
-![Image](https://github.com/marciorbarcellos/dsdeliver-sds2/blob/main/backend/img/Modelo_conceitual.jpg)
+![Image](https://github.com/marciorbarcellos/dsdeliver-sds2/blob/main/backend/img/Modelo_conceitual.jpg "Modelo conceitual")
 
 
 ## Padrão camadas adotado
-
-![Image](https://raw.githubusercontent.com/marciorbarcellos/dsdeliver-sds2/master/assets/backend/img/Padrao_camadas_adotado.jpg "Padrão camadas")
+![Image](https://github.com/marciorbarcellos/dsdeliver-sds2/blob/main/backend/img/Padrao_camadas_adotado.jpg "Padrão camadas")
 
 ## Checklist
 
