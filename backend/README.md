@@ -193,3 +193,4 @@ INSERT INTO tb_order_product (order_id, product_id) VALUES (6 , 1);
 INSERT INTO tb_order_product (order_id, product_id) VALUES (7 , 7);
 INSERT INTO tb_order_product (order_id, product_id) VALUES (7 , 5);
 ```
+>>>>>>>
