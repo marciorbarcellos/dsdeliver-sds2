@@ -8,6 +8,7 @@ type Props = {
     onSelectProduct: (product: Product) => void;
 }
 
+
 function ProductsList({ products, selectedProducts, onSelectProduct }: Props) {
     return (
         <div className="orders-list-container">
