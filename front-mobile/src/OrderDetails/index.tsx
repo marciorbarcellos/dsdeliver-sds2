@@ -35,7 +35,7 @@ function OrderDetails({ route }: Props) {
     }
 
     const handleStartNavigation = () => {
-      Linking.openURL(`https://www.google.com/maps/dir/Av.+Jo%C3%A3o+Naves+de+%C3%81vila,+1331+-+Loja1224,+Uberl%C3%A2ndia+-+MG,+38405-140/Est%C3%A2ncia+do+Cupim+-+Av.+Anselmo+Alves+dos+Santos,+1000+-+Santa+M%C3%B4nica,+Uberl%C3%A2ndia+-+MG,+38408-150/@-18.9078056,-48.2607962,15z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x94a445f250ddcd35:0x235c089940adab4d!2m2!1d-48.2607052!2d-18.9100794!1m5!1m1!1s0x94a4457f0f500f7f:0x19c20b3da11b4f36!2m2!1d-48.2420155!2d-18.9121986`);
+      Linking.openURL(`https://www.google.com/maps/dir/Av.+Jo%C3%A3o+Naves+de+%C3%81vila,+1331+-+Loja1224,+Uberl%C3%A2ndia+-+MG,+38405-140/R.+Haia+-+Tibery,+Uberl%C3%A2ndia+-+MG,+38405-112/@-18.9024982,-48.257697,15z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x94a445f250ddcd35:0x235c089940adab4d!2m2!1d-48.2607052!2d-18.9100794!1m5!1m1!1s0x94a44580a7a9a5a9:0xa0eed3157afdfd86!2m2!1d-48.2380673!2d-18.9059485`);
     }
 
   return (
